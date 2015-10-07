@@ -20,7 +20,7 @@ bower i mapcar --save
 ```js
 mapcar(sum, [1,2,3,4], [1,2]));
 
-// results [2,3]
+// results [2,4]
 
 function sum(array) {
     return array.reduce(function(value, item) {
