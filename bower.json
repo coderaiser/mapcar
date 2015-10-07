@@ -1,6 +1,6 @@
 {
   "name": "mapcar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/coderaiser/mapcar",
   "authors": [
     "coderaiser <mnemonic.enemy@gmail.com>"
@@ -11,7 +11,7 @@
     "globals",
     "node"
   ],
- "keywords": [
+  "keywords": [
     "map",
     "array",
     "first",
