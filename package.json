@@ -1,0 +1,29 @@
+{
+  "name": "mapcar",
+  "version": "1.0.0",
+  "description": "applies function to elements of lists with same index",
+  "main": "lib/mapcar.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/mapcar.git"
+  },
+  "keywords": [
+    "map",
+    "array",
+    "first",
+    "car",
+    "head"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/mapcar/issues"
+  },
+  "homepage": "https://github.com/coderaiser/mapcar",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
