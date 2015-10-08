@@ -10,7 +10,9 @@
         0);
         
     test('applies function fn to elements of lists with same index', t => {
-        t.deepEqual([2,4], mapcar(sum, [1,2,3,4], [1,2]));
+        var result = mapcar(sum, [1,2,3,4], [1,2]);
+        
+        t.deepEqual(result, [2,4]);
         t.end();
     });
     
