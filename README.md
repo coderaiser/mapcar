@@ -24,7 +24,7 @@ mapcar(sum, [1,2,3,4], [1,2]);
 
 function sum(array) {
     return array.reduce(function(value, item) {
-        return value + item,
+        return value + item;
     }, 0);
 }
 
