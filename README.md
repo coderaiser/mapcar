@@ -18,7 +18,7 @@ bower i mapcar --save
 ## How to use?
 
 ```js
-mapcar(sum, [1,2,3,4], [1,2]));
+mapcar(sum, [1,2,3,4], [1,2]);
 // returns
 [2,4]
 
