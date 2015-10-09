@@ -1,6 +1,6 @@
 {
   "name": "mapcar",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "applies function to elements of lists with same index",
   "main": "lib/mapcar.js",
   "scripts": {
